@@ -3,7 +3,7 @@ title: "A generalized conditional gradient method for dynamic inverse problems w
 collection: publications
 permalink: 
 excerpt:
-date: 2022
+date: 2009-10-01-paper-title-number-1
 venue: 'Foundations of Computational Mathematics'
 paperurl: 'https://arxiv.org/pdf/2012.11706.pdf'
 citation: 
