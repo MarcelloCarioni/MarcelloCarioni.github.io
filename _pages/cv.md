@@ -18,7 +18,7 @@ Work experience
 * April 2020 - December 2022: Newton International Fellow
   * University of Cambridge
   
-* September 2017 - March 2022: Postoctoral researcher
+* September 2017 - March 2020: Postoctoral researcher
   * University of Graz
 
 * March 2017 - August 2017: Postoctoral researcher
