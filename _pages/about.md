@@ -10,9 +10,7 @@ redirect_from:
 
 I am an Assistant Professor at the University of Twente in the Mathematics of Imaging & AI group (MIA).
 
-<\ br>
-<\ br>
 
-<b> News: <\b>
-  *
+<b> News: </b>
+  * 
   *
