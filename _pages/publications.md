@@ -1,15 +1,3 @@
-
----
-layout: archive
-title: "Preprints"
-permalink: /publications/
-author_profile: true
----
-
-
-Preprints
-
-
 ---
 layout: archive
 title: "Publications"
@@ -79,5 +67,5 @@ author_profile: true
   
   Published in Journal of Convex Analysis, 2018
 
- [Download Arxiv preprint](https://arxiv.org/pdf/1610.01846.pdf)
+  [Download Arxiv preprint](https://arxiv.org/pdf/1610.01846.pdf)
 
