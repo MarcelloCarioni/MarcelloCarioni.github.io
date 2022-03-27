@@ -1,9 +1,34 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Preprints"
 permalink: /publications/
 author_profile: true
 ---
+
+
+
+* <b> Linear convergence of accelerated generalized conditional gradient methods </b> <br>
+  Kristian Bredies, Marcello Carioni, Silvio Fanzon, Daniel Walter <br>
+
+  Submitted, 2021
+  
+  [Download Arxiv preprint](https://arxiv.org/pdf/2110.06756.pdf)
+
+
+* <b> Regularization Graphs--A unified framework for variational regularization of inverse problems </b> <br>
+  Kristian Bredies, Marcello Carioni, Martin Holler  <br>
+
+  Submitted, 2021
+  
+  [Download Arxiv preprint](https://arxiv.org/pdf/2111.03509.pdf)
+
+* <b> A superposition principle for the inhomogeneous continuity equation with Hellinger-Kantorovich-regular coefficients </b> <br>
+  Kristian Bredies, Marcello Carioni, Silvio Fanzon <br>
+
+  Submitted, 2020
+  
+  [Download Arxiv preprint](https://arxiv.org/pdf/2007.06964.pdf)
+
 
 * <b> A generalized conditional gradient method for dynamic inverse problems with optimal transport regularization </b> <br>
   Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero  <br>
@@ -26,12 +51,31 @@ author_profile: true
 
   [Download Arxiv preprint](https://arxiv.org/pdf/1907.11589.pdf)
   
+* <b>  Lossy data compressor for vehicle control systems </b> <br>
+  Marcello Carioni, Giorgio Patrini, Max Welling, Patrick Forré, Tim Genewein <br>
+  
+  US Patent 11,150,657, 2021
+  
+* <b> CAFLOW: Conditional Autoregressive Flows </b> <br>
+  Georgios Batzolis, Marcello Carioni, Christian Etmann, Soroosh Afyouni, Zoe Kourtzi, Carola Schönlieb <br>
+  
+  Submitted, 2021
+
+  [Download Arxiv preprint](https://arxiv.org/pdf/2106.02531.pdf)
+  
 * <b> Sparsity of solutions for variational inverse problems with finite-dimensional data </b> <br>
   Kristian Bredies, Marcello Carioni <br>
   
   Published in Calculus of Variations and Partial Differential Equations, 2020
 
   [Download Arxiv preprint](https://arxiv.org/pdf/1809.05045.pdf)
+  
+* <b> External forces in the continuum limit of discrete systems with non-convex interaction potentials: Compactness for a Gamma-development </b> <br>
+  Marcello Carioni, Julian Fischer, Anja Schlömerkemper <br>
+
+  Submitted, 2019
+  
+  [Download Arxiv preprint](https://arxiv.org/pdf/1811.09857.pdf)
   
 * <b> The oriented mailing problem and its convex relaxation </b> <br>
   Marcello Carioni, Andrea Marchese, Annalisa Massaccesi, Alessandra Pluda, Riccardo Tione <br>
@@ -46,7 +90,6 @@ author_profile: true
   Published in ESAIM: Control, Optimisation and Calculus of Variations, 2020
 
   [Download Arxiv preprint](https://arxiv.org/pdf/1707.01448.pdf)
-  
   
 * <b> On different notions of calibrations for minimal partitions and minimal networks in R2 </b> <br>
   Marcello Carioni, Alessandra Pluda <br>
@@ -68,4 +111,22 @@ author_profile: true
   Published in Journal of Convex Analysis, 2018
 
   [Download Arxiv preprint](https://arxiv.org/pdf/1610.01846.pdf)
+  
+* <b> Loss factorization, weakly supervised learning and label noise robustness </b> <br>
+  Giorgio Patrini, Frank Nielsen, Richard Nock, Marcello Carioni <br>
+  
+  Published in International Conference on Machine Learning, 2016
+
+  [Download Arxiv preprint](https://arxiv.org/pdf/1602.02450.pdf)
+
+* <b> Long time behaviour for the reinitialization of the distance function </b> <br>
+  Marcello Carioni <br>
+  
+  Preprint, 2018
+
+  [Download Arxiv preprint](https://arxiv.org/pdf/1711.01956.pdf)
+  
+  
+  
+  
 
