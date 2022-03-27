@@ -4,7 +4,7 @@ collection: publications
 permalink: 
 excerpt:
 date: 2022-02-01
-venue: 'Foundations of Computational Mathematics 
+venue: 'Foundations of Computational Mathematics <br/><br/>
 
 Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero'
 
