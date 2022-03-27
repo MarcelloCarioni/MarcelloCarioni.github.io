@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the University of Twente in the Mathematics of Imaging & AI group (MIA). 
-https://www.utwente.nl/en/eemcs/sacs/
+I am an Assistant Professor at the University of Twente in the Mathematics of Imaging & AI group (MIA) and in the SACS group.
+[Link to SACS group](https://www.utwente.nl/en/eemcs/sacs/)
 
 
 
