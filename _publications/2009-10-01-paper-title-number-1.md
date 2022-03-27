@@ -10,6 +10,6 @@ paperurl:
 citation: 
 ---
 
-[ArXiv preprint](https://arxiv.org/pdf/2012.11706.pdf)
+[ArXiv preprint link](https://arxiv.org/pdf/2012.11706.pdf)
 
 
