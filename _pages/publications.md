@@ -1,4 +1,9 @@
-
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
 * <b> A generalized conditional gradient method for dynamic inverse problems with optimal transport regularization </b> <br>
   Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero  <br>
