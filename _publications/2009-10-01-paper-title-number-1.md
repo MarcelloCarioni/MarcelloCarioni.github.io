@@ -6,10 +6,10 @@ permalink:
 excerpt:
 date: 2022-02-01
 venue: 'Foundations of Computational Mathematics'
-paperurl: 'https://arxiv.org/pdf/2012.11706.pdf'
+paperurl: 
 citation: 
 ---
 
-[Download paper here](https://arxiv.org/pdf/2012.11706.pdf)
+[ArXiv preprint](https://arxiv.org/pdf/2012.11706.pdf)
 
 
