@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Marcello Carioni"
   avatar           : "profile.png"
-  bio              : "Mathematician"
+  bio              : "Assistant Professor in Mathematics"
   location         : "Enschede"
   employer         : "University of Twente"
   pubmed           :
   googlescholar    : "https://scholar.google.it/citations?user=OF5DarEAAAAJ&hl=it"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Marcello-Carioni"
   uri              :
   bitbucket        :
   codepen          :
