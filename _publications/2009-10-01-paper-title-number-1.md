@@ -5,7 +5,7 @@ permalink:
 excerpt:
 date: 2022-02-02
 venue: 'Foundations of Computational Mathematics <br />
-Authors : <b>Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero</b>'
+<b>Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero</b>'
 paperurl: 
 citation: 
 ---
