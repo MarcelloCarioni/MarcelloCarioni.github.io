@@ -3,8 +3,8 @@ title: "A generalized conditional gradient method for dynamic inverse problems w
 collection: publications
 permalink: 
 excerpt:
-date: 2022-02-01
-venue: 'Foundations of Computational Mathematics <br/><br/>
+date: 
+venue: 'Foundations of Computational Mathematics (2022) <br/>
 
 Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero'
 
