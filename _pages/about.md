@@ -14,7 +14,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> News: </b>
-  * Feb: Our paper "A generalized conditional gradient method for dynamic inverse problems with optimal transport regularization" has been accepted for publication in "Foundation of Computational Mathematics"
+  * Feb: Our paper "A generalized conditional gradient method for dynamic inverse problems with optimal transport regularization" has been accepted for publication in "Foundations of Computational Mathematics"
   * Mar: I gave a talk at SIAM Imaging, 2022 about our paper "End-to-end reconstruction meets data-driven regularization for inverse problems"
 
 
