@@ -2,7 +2,7 @@
 title: "End-to-end reconstruction meets data-driven regularization for inverse problems "
 collection: publications
 permalink: 
-excerpt: 'Subhadip Mukherjee, Marcello Carioni, Ozan Öktem, Carola-Bibiane Schönlieb'
+excerpt: 'Authors: <b>Subhadip Mukherjee, Marcello Carioni, Ozan Öktem, Carola-Bibiane Schönlieb</b>'
 date: 2021-10-01
 venue: 'Neurips'
 paperurl: 
