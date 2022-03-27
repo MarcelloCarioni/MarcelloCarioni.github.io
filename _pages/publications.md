@@ -1,15 +1,16 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
 
-* A generalized conditional gradient method for dynamic inverse problems with optimal transport regularization
-  Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero
+
+* <b> A generalized conditional gradient method for dynamic inverse problems with optimal transport regularization <\b> <br>
+  Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero  <br>
 
   Published in Foundations of Computational Mathematics, 2022
 
+* <b> A generalized conditional gradient method for dynamic inverse problems with optimal transport regularization <\b> <br>
+  Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero  <br>
+
+  Published in Foundations of Computational Mathematics, 2022
+
+  
 Authors: 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
