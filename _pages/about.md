@@ -23,3 +23,15 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
   * 12-13 May: Invited speaker at NUCLEi workshop at GSSI (L'Aquila - Italy)
   * 2 Jun: Invited speaker in the Applied Seminar at Radboud University (The Netherlads)
   * 10-11 Jun: Invited speaker at 1st Workshop on AI and Mathematics (CWI - Amsterdam)
+
+
+<b> Contact information: </b>
+
+<u>Address</u>: University of Twente, 
+Faculty of Electrical Engineering, Mathematics and Computer Science,
+Zilverling  3010,
+P.O. Box 217,
+7500 AE Enschede,
+The Netherlands
+
+<u>Email</u>: m.c.carioni@utwente.nl
