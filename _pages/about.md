@@ -27,11 +27,10 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 <b> Contact information: </b>
 
-<u>Address</u>: University of Twente, 
-Faculty of Electrical Engineering, Mathematics and Computer Science,
-Zilverling  3010,
-P.O. Box 217,
-7500 AE Enschede,
-The Netherlands
+<u>Address</u>: University of Twente, <br \>
+Faculty of Electrical Engineering, Mathematics and Computer Science,<br \>
+Zilverling  3010,<br \>
+P.O. Box 217,<br \>
+7500 AE Enschede, The Netherlands
 
 <u>Email</u>: m.c.carioni@utwente.nl
