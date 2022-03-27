@@ -1,3 +1,15 @@
+
+---
+layout: archive
+title: "Preprints"
+permalink: /publications/
+author_profile: true
+---
+
+
+Preprints
+
+
 ---
 layout: archive
 title: "Publications"
@@ -25,16 +37,47 @@ author_profile: true
   Published in Bulletin of the London Mathematical Society, 2021
 
   [Download Arxiv preprint](https://arxiv.org/pdf/1907.11589.pdf)
-
-
   
-Authors: 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+* <b> Sparsity of solutions for variational inverse problems with finite-dimensional data </b> <br>
+  Kristian Bredies, Marcello Carioni <br>
+  
+  Published in Calculus of Variations and Partial Differential Equations, 2020
 
-{% include base_path %}
+  [Download Arxiv preprint](https://arxiv.org/pdf/1809.05045.pdf)
+  
+* <b> The oriented mailing problem and its convex relaxation </b> <br>
+  Marcello Carioni, Andrea Marchese, Annalisa Massaccesi, Alessandra Pluda, Riccardo Tione <br>
+  
+  Published in Nonlinear Analysis, 2020
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+  [Download Arxiv preprint](https://arxiv.org/pdf/1904.08246.pdf)
+  
+* <b> Calibrations for minimal networks in a covering space setting </b> <br>
+  Marcello Carioni, Alessandra Pluda <br>
+  
+  Published in ESAIM: Control, Optimisation and Calculus of Variations, 2020
+
+  [Download Arxiv preprint](https://arxiv.org/pdf/1707.01448.pdf)
+  
+  
+* <b> On different notions of calibrations for minimal partitions and minimal networks in R2 </b> <br>
+  Marcello Carioni, Alessandra Pluda <br>
+  
+  Published in Advances in Calculus of Variations, 2019
+
+  [Download Arxiv preprint](https://arxiv.org/pdf/1805.11397.pdf)
+  
+* <b> Sinkhorn autoencoders </b> <br>
+  Giorgio Patrini, Rianne van den Berg, Patrick Forre, Marcello Carioni, Samarth Bhargav, Max Welling, Tim Genewein, Frank Nielsen <br>
+  
+  Published in UAI, 2019
+
+  [Download Arxiv preprint](https://arxiv.org/pdf/1810.01118.pdf)
+
+* <b> A Convex Decomposition Formula for the Mumford-Shah Functional in Dimension One </b> <br>
+  Marcello Carioni <br>
+  
+  Published in Journal of Convex Analysis, 2018
+
+ [Download Arxiv preprint](https://arxiv.org/pdf/1610.01846.pdf)
+
