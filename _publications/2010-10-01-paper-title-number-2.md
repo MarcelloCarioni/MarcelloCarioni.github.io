@@ -8,7 +8,7 @@ venue: 'Neurips'
 paperurl: 
 citation: 
 ---
-This paper is about the number 2. The number 3 is left for future work.
+
 
 [Arxiv preprint link](https://arxiv.org/pdf/2106.03538.pdf)
 
