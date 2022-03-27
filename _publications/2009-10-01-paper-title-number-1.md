@@ -2,10 +2,9 @@
 title: "A generalized conditional gradient method for dynamic inverse problems with optimal transport regularization"
 collection: publications
 permalink: 
-excerpt:
+excerpt:'<b>Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero</b>'
 date: 2022-02-02
-venue: 'Foundations of Computational Mathematics <br />
-<b>Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero</b>'
+venue: 'Foundations of Computational Mathematics'
 paperurl: 
 citation: 
 ---
