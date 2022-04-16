@@ -18,7 +18,7 @@ author_profile: true
 * <b> Regularization Graphs--A unified framework for variational regularization of inverse problems </b> <br>
   Kristian Bredies, Marcello Carioni, Martin Holler  <br>
 
-  Submitted, 2021
+  Published in Inverse Problems, 2022
   
   [Download Arxiv preprint](https://arxiv.org/pdf/2111.03509.pdf)
 
