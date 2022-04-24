@@ -14,6 +14,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> News: </b>
+  * Apr: We are organizing the first Workshop Calculus of Variations NL, on July 4-8, 2022 in Schiermonnikoog (NL). More info [here](https://www.calcvar.nl/events)
   * Apr: Our paper "Regularization Graphs - A unified framework for variational regularization of inverse problems" has been accepted for publication in "Inverse Problems"
   * Mar: I gave a talk at SIAM Imaging, 2022 about our paper "End-to-end reconstruction meets data-driven regularization for inverse problems"
   * Feb: Our paper "A generalized conditional gradient method for dynamic inverse problems with optimal transport regularization" has been accepted for publication in "Foundations of Computational Mathematics"
