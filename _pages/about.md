@@ -23,8 +23,9 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 <b> Upcoming events: </b>
   * 12-13 May: Invited speaker at NUCLEi workshop at GSSI (L'Aquila - Italy)
-  * 2 Jun: Invited speaker in the Applied Seminar at Radboud University (The Netherlads)
+  * 2 Jun: Invited speaker in the Applied Seminar at Radboud University (The Netherlands)
   * 10-11 Jun: Invited speaker at 1st Workshop on AI and Mathematics (CWI - Amsterdam)
+  * 4-8 Jul: Workshop Calculus of Variations NL, Schiermonnikoog (The Netherlands)
 
 
 <b> Contact information: </b>
