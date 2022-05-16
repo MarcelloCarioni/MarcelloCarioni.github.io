@@ -14,6 +14,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> News: </b>
+  * May: I gave a talk at Nuclei workshop at GSSI (L'Aquila) titled "Sparse optimization methods for infinite-dimensional variational problems"
   * Apr: We are organizing the first Workshop Calculus of Variations NL, on July 4-8, 2022 in Schiermonnikoog (NL). More info [here](https://www.calcvar.nl/events)
   * Apr: Our paper "Regularization Graphs - A unified framework for variational regularization of inverse problems" has been accepted for publication in "Inverse Problems"
   * Mar: I gave a talk at SIAM Imaging, 2022 about our paper "End-to-end reconstruction meets data-driven regularization for inverse problems"
@@ -22,9 +23,9 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> Upcoming events: </b>
-  * 12-13 May: Invited speaker at NUCLEi workshop at GSSI (L'Aquila - Italy)
   * 2 Jun: Invited speaker in the Applied Seminar at Radboud University (The Netherlands)
   * 10-11 Jun: Invited speaker at 1st Workshop on AI and Mathematics (CWI - Amsterdam)
+  * 20-21 Jun: I will participate to the NDNS+ Twente workshop
   * 4-8 Jul: Workshop Calculus of Variations NL, Schiermonnikoog (The Netherlands)
 
 
