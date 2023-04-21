@@ -25,7 +25,7 @@ author_profile: true
   Published in Inverse Problems, 2022
   
 
-* <b> [A superposition principle for the inhomogeneous continuity equation with Hellinger-Kantorovich-regular coefficients]         (https://arxiv.org/pdf/2007.06964.pdf) </b> <br>
+* <b>[A superposition principle for the inhomogeneous continuity equation with Hellinger-Kantorovich-regular coefficients](https://arxiv.org/pdf/2007.06964.pdf)</b> <br>
   <b> Kristian Bredies, Marcello Carioni, Silvio Fanzon </b> <br>
   Published in Communications in Partial Differential Equations, 2022
   
@@ -47,8 +47,7 @@ author_profile: true
   
   
 * <b>  Lossy data compressor for vehicle control systems </b> <br>
-  Marcello Carioni, Giorgio Patrini, Max Welling, Patrick Forré, Tim Genewein <br>
-  
+   <b> Marcello Carioni, Giorgio Patrini, Max Welling, Patrick Forré, Tim Genewein </b> <br>
   US Patent 11,150,657, 2021
   
 * <b> CAFLOW: Conditional Autoregressive Flows </b> <br>
