@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 * <b> [A sparse optimization approach to infinite infimal convolution regularization](https://arxiv.org/pdf/2304.08628.pdf) </b> <br>
-  Kristian Bredies, Marcello Carioni, Martin Holler, Yury Korolev, Carola-Bibiane Schönlieb <br>
+  <b> Kristian Bredies, Marcello Carioni, Martin Holler, Yury Korolev, Carola-Bibiane Schönlieb </b><br>
   Submitted, 2023
 
 
 * <b> [Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI](https://arxiv.org/pdf/2302.12835.pdf) </b> <br>
-  Simone Saitta, Marcello Carioni, Subhadip Mukherjee, Carola-Bibiane Schönlieb, Alberto Redaelli <br>
+  <b> Simone Saitta, Marcello Carioni, Subhadip Mukherjee, Carola-Bibiane Schönlieb, Alberto Redaelli </b><br>
   Submitted, 2023
 
 
@@ -20,27 +20,20 @@ author_profile: true
   Submitted, 2021
 
 
-* <b> Regularization Graphs--A unified framework for variational regularization of inverse problems </b> <br>
-  Kristian Bredies, Marcello Carioni, Martin Holler  <br>
-
+* <b> [Regularization Graphs--A unified framework for variational regularization of inverse problems](https://arxiv.org/pdf/2111.03509.pdf) </b> <br>
+  <b> Kristian Bredies, Marcello Carioni, Martin Holler  </b> <br>
   Published in Inverse Problems, 2022
   
-  [Download Arxiv preprint](https://arxiv.org/pdf/2111.03509.pdf)
 
-* <b> A superposition principle for the inhomogeneous continuity equation with Hellinger-Kantorovich-regular coefficients </b> <br>
-  Kristian Bredies, Marcello Carioni, Silvio Fanzon <br>
-
-  Submitted, 2020
+* <b> [A superposition principle for the inhomogeneous continuity equation with Hellinger-Kantorovich-regular coefficients]         (https://arxiv.org/pdf/2007.06964.pdf) </b> <br>
+  <b> Kristian Bredies, Marcello Carioni, Silvio Fanzon </b> <br>
+  Published in Communications in Partial Differential Equations, 2022
   
-  [Download Arxiv preprint](https://arxiv.org/pdf/2007.06964.pdf)
 
-
-* <b> A generalized conditional gradient method for dynamic inverse problems with optimal transport regularization </b> <br>
-  Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero  <br>
-
+* <b> [A generalized conditional gradient method for dynamic inverse problems with optimal transport regularization](https://arxiv.org/pdf/2012.11706.pdf) </b> <br>
+  <b> Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero </b> <br>
   Published in Foundations of Computational Mathematics, 2022
-  
-  [Download Arxiv preprint](https://arxiv.org/pdf/2012.11706.pdf)
+
 
 * <b> End-to-end reconstruction meets data-driven regularization for inverse problems </b> <br>
   Subhadip Mukherjee, Marcello Carioni, Ozan Öktem, Carola-Bibiane Schönlieb <br>
