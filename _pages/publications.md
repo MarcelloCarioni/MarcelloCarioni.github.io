@@ -8,7 +8,8 @@ author_profile: true
 
 
 * <b> [Linear convergence of accelerated generalized conditional gradient methods](https://arxiv.org/pdf/2110.06756.pdf) </b> <br>
-  Kristian Bredies, Marcello Carioni, Silvio Fanzon, Daniel Walter <br>. Submitted, 2021
+  Kristian Bredies, Marcello Carioni, Silvio Fanzon, Daniel Walter <br>
+  Submitted, 2021
 
   
 
