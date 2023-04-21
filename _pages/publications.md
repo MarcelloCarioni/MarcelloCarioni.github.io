@@ -30,8 +30,7 @@ author_profile: true
   Published in Communications in Partial Differential Equations, 2022
   
 
-* <b>[A generalized conditional gradient method for dynamic inverse problems with optimal transport regularization]
-(https://arxiv.org/pdf/2012.11706.pdf)</b> <br>
+* <b>[A generalized conditional gradient method for dynamic inverse problems with optimal transport regularization](https://arxiv.org/pdf/2012.11706.pdf)</b> <br>
   <b> Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero </b> <br>
   Published in Foundations of Computational Mathematics, 2022
 
@@ -60,8 +59,7 @@ author_profile: true
   Published in Calculus of Variations and Partial Differential Equations, 2020
 
   
-* <b> [External forces in the continuum limit of discrete systems with non-convex interaction potentials: Compactness for a Gamma-development]
-(https://arxiv.org/pdf/1811.09857.pdf) </b> <br>
+* <b> [External forces in the continuum limit of discrete systems with non-convex interaction potentials: Compactness for a Gamma-development](https://arxiv.org/pdf/1811.09857.pdf) </b> <br>
   <b>  Marcello Carioni, Julian Fischer, Anja Schlömerkemper </b>  <br>
   Published in Journal of Convex Analysis, 2022
   
@@ -98,7 +96,6 @@ author_profile: true
 
 * <b> [Long time behaviour for the reinitialization of the distance function](https://arxiv.org/pdf/1711.01956.pdf) </b> <br>
   <b> Marcello Carioni </b> <br>
-  
   Preprint, 2018
 
   
