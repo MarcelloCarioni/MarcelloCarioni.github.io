@@ -7,13 +7,10 @@ author_profile: true
 
 
 
-* <b> Linear convergence of accelerated generalized conditional gradient methods </b> <br>
-  Kristian Bredies, Marcello Carioni, Silvio Fanzon, Daniel Walter <br>
+* <b> [Linear convergence of accelerated generalized conditional gradient methods](https://arxiv.org/pdf/2110.06756.pdf) </b> <br>
+  Kristian Bredies, Marcello Carioni, Silvio Fanzon, Daniel Walter <br>. Submitted, 2021
 
-  Submitted, 2021
   
-  [Download Arxiv preprint](https://arxiv.org/pdf/2110.06756.pdf)
-
 
 * <b> Regularization Graphs--A unified framework for variational regularization of inverse problems </b> <br>
   Kristian Bredies, Marcello Carioni, Martin Holler  <br>
