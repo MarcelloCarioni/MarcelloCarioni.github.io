@@ -30,24 +30,21 @@ author_profile: true
   Published in Communications in Partial Differential Equations, 2022
   
 
-* <b> [A generalized conditional gradient method for dynamic inverse problems with optimal transport regularization](https://arxiv.org/pdf/2012.11706.pdf) </b> <br>
+* <b> [A generalized conditional gradient method for dynamic inverse problems with optimal transport regularization]
+(https://arxiv.org/pdf/2012.11706.pdf)</b> <br>
   <b> Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero </b> <br>
   Published in Foundations of Computational Mathematics, 2022
 
 
-* <b> End-to-end reconstruction meets data-driven regularization for inverse problems </b> <br>
-  Subhadip Mukherjee, Marcello Carioni, Ozan Öktem, Carola-Bibiane Schönlieb <br>
-  
+* <b> [End-to-end reconstruction meets data-driven regularization for inverse problems](https://arxiv.org/pdf/2106.03538.pdf) </b> <br>
+  <b> Subhadip Mukherjee, Marcello Carioni, Ozan Öktem, Carola-Bibiane Schönlieb </b> <br>
   Published in Neurips, 2021
 
-  [Download Arxiv preprint](https://arxiv.org/pdf/2106.03538.pdf)
   
-* <b> On the extremal points of the ball of the Benamou–Brenier energy </b> <br>
-  Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero <br>
-  
+* <b> [On the extremal points of the ball of the Benamou–Brenier energy](https://arxiv.org/pdf/1907.11589.pdf) </b> <br>
+  <b> Kristian Bredies, Marcello Carioni, Silvio Fanzon, Francisco Romero </b> <br>
   Published in Bulletin of the London Mathematical Society, 2021
-
-  [Download Arxiv preprint](https://arxiv.org/pdf/1907.11589.pdf)
+  
   
 * <b>  Lossy data compressor for vehicle control systems </b> <br>
   Marcello Carioni, Giorgio Patrini, Max Welling, Patrick Forré, Tim Genewein <br>
