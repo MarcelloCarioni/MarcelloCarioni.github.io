@@ -50,75 +50,57 @@ author_profile: true
    <b> Marcello Carioni, Giorgio Patrini, Max Welling, Patrick Forré, Tim Genewein </b> <br>
   US Patent 11,150,657, 2021
   
-* <b> CAFLOW: Conditional Autoregressive Flows </b> <br>
-  Georgios Batzolis, Marcello Carioni, Christian Etmann, Soroosh Afyouni, Zoe Kourtzi, Carola Schönlieb <br>
-  
+* <b> [CAFLOW: Conditional Autoregressive Flows](https://arxiv.org/pdf/2106.02531.pdf) </b> <br>
+  <b> Georgios Batzolis, Marcello Carioni, Christian Etmann, Soroosh Afyouni, Zoe Kourtzi, Carola Schönlieb </b> <br>
   Submitted, 2021
 
-  [Download Arxiv preprint](https://arxiv.org/pdf/2106.02531.pdf)
   
-* <b> Sparsity of solutions for variational inverse problems with finite-dimensional data </b> <br>
-  Kristian Bredies, Marcello Carioni <br>
-  
+* <b> [Sparsity of solutions for variational inverse problems with finite-dimensional data](https://arxiv.org/pdf/1809.05045.pdf) </b> <br>
+  <b> Kristian Bredies, Marcello Carioni </b> <br>
   Published in Calculus of Variations and Partial Differential Equations, 2020
 
-  [Download Arxiv preprint](https://arxiv.org/pdf/1809.05045.pdf)
   
-* <b> External forces in the continuum limit of discrete systems with non-convex interaction potentials: Compactness for a Gamma-development </b> <br>
-  Marcello Carioni, Julian Fischer, Anja Schlömerkemper <br>
-
-  Submitted, 2019
+* <b> [External forces in the continuum limit of discrete systems with non-convex interaction potentials: Compactness for a Gamma-development]
+(https://arxiv.org/pdf/1811.09857.pdf) </b> <br>
+  <b>  Marcello Carioni, Julian Fischer, Anja Schlömerkemper </b>  <br>
+  Published in Journal of Convex Analysis, 2022
   
-  [Download Arxiv preprint](https://arxiv.org/pdf/1811.09857.pdf)
-  
-* <b> The oriented mailing problem and its convex relaxation </b> <br>
-  Marcello Carioni, Andrea Marchese, Annalisa Massaccesi, Alessandra Pluda, Riccardo Tione <br>
-  
+* <b> [The oriented mailing problem and its convex relaxation](https://arxiv.org/pdf/1904.08246.pdf) </b> <br>
+  <b> Marcello Carioni, Andrea Marchese, Annalisa Massaccesi, Alessandra Pluda, Riccardo Tione </b> <br>
   Published in Nonlinear Analysis, 2020
 
-  [Download Arxiv preprint](https://arxiv.org/pdf/1904.08246.pdf)
   
-* <b> Calibrations for minimal networks in a covering space setting </b> <br>
-  Marcello Carioni, Alessandra Pluda <br>
-  
+* <b> [Calibrations for minimal networks in a covering space setting](https://arxiv.org/pdf/1707.01448.pdf) </b> <br>
+  <b> Marcello Carioni, Alessandra Pluda </b> <br>
   Published in ESAIM: Control, Optimisation and Calculus of Variations, 2020
 
-  [Download Arxiv preprint](https://arxiv.org/pdf/1707.01448.pdf)
+
   
-* <b> On different notions of calibrations for minimal partitions and minimal networks in R2 </b> <br>
-  Marcello Carioni, Alessandra Pluda <br>
-  
+* <b> [On different notions of calibrations for minimal partitions and minimal networks in R2](https://arxiv.org/pdf/1805.11397.pdf) </b> <br>
+  <b> Marcello Carioni, Alessandra Pluda </b> <br>
   Published in Advances in Calculus of Variations, 2019
 
-  [Download Arxiv preprint](https://arxiv.org/pdf/1805.11397.pdf)
   
-* <b> Sinkhorn autoencoders </b> <br>
-  Giorgio Patrini, Rianne van den Berg, Patrick Forre, Marcello Carioni, Samarth Bhargav, Max Welling, Tim Genewein, Frank Nielsen <br>
-  
+* <b> [Sinkhorn autoencoders](https://arxiv.org/pdf/1810.01118.pdf) </b> <br>
+  <b> Giorgio Patrini, Rianne van den Berg, Patrick Forre, Marcello Carioni, Samarth Bhargav, Max Welling, Tim Genewein, Frank Nielsen </b> <br>
   Published in UAI, 2019
 
-  [Download Arxiv preprint](https://arxiv.org/pdf/1810.01118.pdf)
 
-* <b> A Convex Decomposition Formula for the Mumford-Shah Functional in Dimension One </b> <br>
-  Marcello Carioni <br>
-  
+* <b> [A Convex Decomposition Formula for the Mumford-Shah Functional in Dimension One](https://arxiv.org/pdf/1610.01846.pdf) </b> <br>
+  <b> Marcello Carioni </b> <br>
   Published in Journal of Convex Analysis, 2018
 
-  [Download Arxiv preprint](https://arxiv.org/pdf/1610.01846.pdf)
   
-* <b> Loss factorization, weakly supervised learning and label noise robustness </b> <br>
-  Giorgio Patrini, Frank Nielsen, Richard Nock, Marcello Carioni <br>
-  
+* <b> [Loss factorization, weakly supervised learning and label noise robustness](https://arxiv.org/pdf/1602.02450.pdf) </b> <br>
+  <b> Giorgio Patrini, Frank Nielsen, Richard Nock, Marcello Carioni </b> <br>
   Published in International Conference on Machine Learning, 2016
 
-  [Download Arxiv preprint](https://arxiv.org/pdf/1602.02450.pdf)
 
-* <b> Long time behaviour for the reinitialization of the distance function </b> <br>
-  Marcello Carioni <br>
+* <b> [Long time behaviour for the reinitialization of the distance function](https://arxiv.org/pdf/1711.01956.pdf) </b> <br>
+  <b> Marcello Carioni </b> <br>
   
   Preprint, 2018
 
-  [Download Arxiv preprint](https://arxiv.org/pdf/1711.01956.pdf)
   
   
   
