@@ -14,6 +14,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> News: </b>
+  * Apr 2023: Our paper "[Asymptotic linear convergence of Fully-Corrective Generalized Gradient methods](https://arxiv.org/pdf/2110.06756.pdf)" has been accepted for publication on Mathematical Programming
   * Apr 2023: Our new preprint "[A sparse optimization approach to infinite infimal convolution regularization](https://arxiv.org/pdf/2304.08628.pdf)" is on Arvix
   * Apr 2023 : We are organizing the first Workshop Calculus of Variations NL, on July 10-14, 2023 in Schiermonnikoog (NL). More info [here](https://www.calcvar.nl/events)
   * Mar 2023: I gave a talk at SIAM Computational Science And Engeneering 2023 titled "Sparsity for Variational Problems and Applications to Infinitely Wide Shallow Neural Networks"
