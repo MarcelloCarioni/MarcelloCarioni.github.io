@@ -24,7 +24,8 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> Upcoming events: </b>
-  * 1-2 Jun 2023: I will participate to AIM cluster workshop in Twente 
+  * 1-2 Jun 2023: I will give a talk at the AIM cluster workshop in Twente 
+  * 27 Jun 2023: I will give a short pitch at the 4TU.AMI Summer Event
   * 26-27 Jun 2023: I will participate to NDNS+ cluster workshop in Twente
   * 10-14 Jul 2023: Workshop Calculus of Variations NL, Schiermonnikoog (The Netherlands)
   * 20-25 Aug 2023: I will give a talk in the minisymposium "New mathematical trends in weather prediction and inverse problems" at ICIAM 2023 in Tokjo
