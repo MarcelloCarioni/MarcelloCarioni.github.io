@@ -14,6 +14,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> News: </b>
+  * Jun 2023: I gave a talk at the AIM cluster workshop in Twente titled "Learning regularizers for inverse problems via Optimal Transport"
   * Apr 2023: Our paper "[Asymptotic linear convergence of Fully-Corrective Generalized Gradient methods](https://arxiv.org/pdf/2110.06756.pdf)" has been accepted for publication on Mathematical Programming
   * Apr 2023: Our new preprint "[A sparse optimization approach to infinite infimal convolution regularization](https://arxiv.org/pdf/2304.08628.pdf)" is on Arvix
   * Apr 2023 : We are organizing the first Workshop Calculus of Variations NL, on July 10-14, 2023 in Schiermonnikoog (NL). More info [here](https://www.calcvar.nl/events)
@@ -24,7 +25,6 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> Upcoming events: </b>
-  * 1-2 Jun 2023: I will give a talk at the AIM cluster workshop in Twente 
   * 27 Jun 2023: I will give a short pitch at the 4TU.AMI Summer Event
   * 26-27 Jun 2023: I will participate to NDNS+ cluster workshop in Twente
   * 10-14 Jul 2023: Workshop Calculus of Variations NL, Schiermonnikoog (The Netherlands)
