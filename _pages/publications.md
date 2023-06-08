@@ -9,11 +9,9 @@ author_profile: true
   <b> Kristian Bredies, Marcello Carioni, Martin Holler, Yury Korolev, Carola-Bibiane Schönlieb </b><br>
   Submitted, 2023
 
-
 * <b> [Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI](https://arxiv.org/pdf/2302.12835.pdf) </b> <br>
   <b> Simone Saitta, Marcello Carioni, Subhadip Mukherjee, Carola-Bibiane Schönlieb, Alberto Redaelli </b><br>
   Submitted, 2023
-
 
 * <b> [Linear convergence of accelerated generalized conditional gradient methods](https://arxiv.org/pdf/2110.06756.pdf) </b> <br>
   <b> Kristian Bredies, Marcello Carioni, Silvio Fanzon, Daniel Walter </b> <br>
