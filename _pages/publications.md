@@ -8,7 +8,6 @@ author_profile: true
 * <b> [A sparse optimization approach to infinite infimal convolution regularization](https://arxiv.org/pdf/2304.08628.pdf) </b> <br>
   <b> Kristian Bredies, Marcello Carioni, Martin Holler, Yury Korolev, Carola-Bibiane Schönlieb </b><br>
   Submitted, 2023
-
 * <b> [Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI](https://arxiv.org/pdf/2302.12835.pdf) </b> <br>
   <b> Simone Saitta, Marcello Carioni, Subhadip Mukherjee, Carola-Bibiane Schönlieb, Alberto Redaelli </b><br>
   Submitted, 2023
