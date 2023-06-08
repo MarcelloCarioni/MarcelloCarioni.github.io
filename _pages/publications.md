@@ -12,9 +12,9 @@ author_profile: true
   <b> Simone Saitta, Marcello Carioni, Subhadip Mukherjee, Carola-Bibiane Schönlieb, Alberto Redaelli </b><br>
   Submitted, 2023
 
-* <b> [Linear convergence of accelerated generalized conditional gradient methods](https://arxiv.org/pdf/2110.06756.pdf) </b> <br>
+* <b> [Asymptotic linear convergence of fully-corrective generalized conditional gradient methods](https://arxiv.org/pdf/2110.06756.pdf) </b> <br>
   <b> Kristian Bredies, Marcello Carioni, Silvio Fanzon, Daniel Walter </b> <br>
-  Submitted, 2021
+  Published in Mathematical Programming, 2023
 
 
 * <b> [Regularization Graphs--A unified framework for variational regularization of inverse problems](https://arxiv.org/pdf/2111.03509.pdf) </b> <br>
