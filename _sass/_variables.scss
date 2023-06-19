@@ -39,8 +39,8 @@ $type-size-3                : 1em;  // ~25.008px
 $type-size-4                : 1em;   // ~20px
 $type-size-5                : 1em;      // ~16px
 $type-size-6                : 1em;   // ~12px
-$type-size-7                : 0.575em; // ~11px
-$type-size-8                : 0.525em;  // ~10px
+$type-size-7                : 1em; // ~11px
+$type-size-8                : 1em;  // ~10px
 
 
 /*
@@ -104,8 +104,8 @@ $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 @include breakpoint-set("to ems", true);
 /*
 $small                      : 500px;
-$medium                     : 600px;
-$medium-wide                : 550px;
+$medium                     : 800px;
+$medium-wide                : 900px;
 $large                      : 1200px;
 $x-large                    : 1800px;
 */
