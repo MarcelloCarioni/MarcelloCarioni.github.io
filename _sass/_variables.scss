@@ -110,15 +110,17 @@ $large                      : 1200px;
 $x-large                    : 1800px;
 */
 
-$small                      : 464px !default;
-$medium                     : 800px !default;
-$medium-wide                : 900px !default;
-$large                      : 1100px !default;
-$x-large                    : 1600px !default;
+$small                      : 464px;
+$medium                     : 800px;
+$medium-wide                : 900px;
+$large                      : 1100px;
+$x-large                    : 1600px;
 
 /*
    Grid
    ========================================================================== */
+
+$base-font-size:   14px !default;
 
 $right-sidebar-width-narrow : 0px;
 $right-sidebar-width        : 0px;
