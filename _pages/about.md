@@ -13,7 +13,8 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 
-<b> News: </b> * Jun 2023: I gave a talk at University of Münster titled: "Sparse optimization algorithms for Tikhonov regularized inverse problems"
+<b> News: </b> 
+  * Jun 2023: I gave a talk at University of Münster titled: "Sparse optimization algorithms for Tikhonov regularized inverse problems"
   * Jun 2023: I gave a talk at the AIM cluster workshop in Twente titled "Learning regularizers for inverse problems via Optimal Transport"
   * Apr 2023: Our paper "[Asymptotic linear convergence of Fully-Corrective Generalized Gradient methods](https://arxiv.org/pdf/2110.06756.pdf)" has been accepted for publication on Mathematical Programming
   * Apr 2023: Our new preprint "[A sparse optimization approach to infinite infimal convolution regularization](https://arxiv.org/pdf/2304.08628.pdf)" is on Arvix
