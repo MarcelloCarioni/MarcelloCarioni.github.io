@@ -27,7 +27,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 <b> Upcoming events: </b>
   * 26 May - 1 Jun 2024: I will be at the 11th International Conference "Inverse Problems: Modeling and Simulation" in Malta
-
+  * 8 Jul - 12 Jul 2024: CalcVarNL workshop in Schiermonnikoog
 
 <b> Contact information: </b>
 
