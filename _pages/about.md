@@ -14,6 +14,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> News: </b>  
+  * Jan 2024: I have been awarded the NWO Open Competition M1 grant for the project "[Curve Ensemble Gradient Descents for Sparse Dynamic Problems](https://www.nwo.nl/en/news/sixteen-innovative-research-projects-launched-through-open-competition-domain-science-m-programme)"
   * Nov 2023: New preprint: "[Unsupervised approaches based on optimal transport and convex analysis for inverse problems in imaging](https://arxiv.org/pdf/2311.08972.pdf)"
   * Nov 2023: New preprint: "[A General Theory for Exact Sparse Representation Recovery in Convex Optimization](https://arxiv.org/pdf/2311.08072.pdf)"
   * Nov 2023: I gave a talk at the Chemnitz Symposium on Inverse Problems 2023 in Würzburg titled "Sparse optimization of inverse problems regularized with infimal-convolution-type functionals"
