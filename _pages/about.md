@@ -22,13 +22,13 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
   * Aug 2023: I gave a talk at ICIAM 2023 titled: "Sparse optimization of inverse problems regularized with infimal-convolution-type functionals"
   * Jul 2023: The Workshop Calculus of Variations NL took place in Schiermonnikoog. More info [here](https://www.calcvar.nl/events)
   * Jun 2023: I gave a talk at University of Münster titled: "Sparse optimization algorithms for Tikhonov regularized inverse problems"
-  * Jun 2023: I gave a talk at the AIM cluster workshop in Twente titled "Learning regularizers for inverse problems via Optimal Transport"
-
 
 
 <b> Upcoming events: </b>
+  * 18 May - 22 May 2024: I will give a talk at GAMM 2024 in Magdeburg 
   * 26 May - 1 Jun 2024: I will be at the 11th International Conference "Inverse Problems: Modeling and Simulation" in Malta
-  * 8 Jul - 12 Jul 2024: CalcVarNL workshop in Schiermonnikoog
+  * Jun 18 - Jun 21 2024: I will be at the "FGS Conference on Optimization" in Gijon
+  * Jul 8 - Jul 21 2024: "CalcVarNL workshop" in Schiermonnikoog
 
 <b> Contact information: </b>
 
