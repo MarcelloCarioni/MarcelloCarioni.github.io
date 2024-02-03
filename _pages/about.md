@@ -14,11 +14,12 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> News: </b>  
+  * Feb 2024: Our paper "[Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI](https://arxiv.org/abs/2302.12835)" has been accepted for publication in Computer Methods and Programs in Biomedicine
   * Jan 2024: I have been awarded the NWO Open Competition M1 grant for the project "[Curve Ensemble Gradient Descents for Sparse Dynamic Problems](https://www.nwo.nl/en/news/sixteen-innovative-research-projects-launched-through-open-competition-domain-science-m-programme)"
   * Nov 2023: New preprint: "[Unsupervised approaches based on optimal transport and convex analysis for inverse problems in imaging](https://arxiv.org/pdf/2311.08972.pdf)"
   * Nov 2023: New preprint: "[A General Theory for Exact Sparse Representation Recovery in Convex Optimization](https://arxiv.org/pdf/2311.08072.pdf)"
   * Nov 2023: I gave a talk at the Chemnitz Symposium on Inverse Problems 2023 in Würzburg titled "Sparse optimization of inverse problems regularized with infimal-convolution-type functionals"
-  * Sep 2023: Our paper "[Extremal points and sparse optimization for generalized Kantorovich-Rubinstein norms](https://arxiv.org/pdf/2209.09167.pdf)" has been accepted for publication on Foundations of Computational Mathematics
+  * Sep 2023: Our paper "[Extremal points and sparse optimization for generalized Kantorovich-Rubinstein norms](https://arxiv.org/pdf/2209.09167.pdf)" has been accepted for publication in Foundations of Computational Mathematics
   * Aug 2023: I gave a talk at ICIAM 2023 titled: "Sparse optimization of inverse problems regularized with infimal-convolution-type functionals"
   * Jul 2023: The Workshop Calculus of Variations NL took place in Schiermonnikoog. More info [here](https://www.calcvar.nl/events)
   * Jun 2023: I gave a talk at University of Münster titled: "Sparse optimization algorithms for Tikhonov regularized inverse problems"
