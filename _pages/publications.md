@@ -23,7 +23,7 @@ author_profile: true
   Accepted for publication in Computer Methods and Programs in Biomedicine, 2024
 * <b> [Extremal points and sparse optimization for generalized Kantorovich-Rubinstein norms](https://arxiv.org/pdf/2209.09167.pdf) </b> <br>
   <b> Marcello Carioni, José Iglesias, Daniel Walter </b><br>
-   Accepted for publication in Foundations of Computational Mathematics, 2024
+   Accepted for publication in Foundations of Computational Mathematics, 2023
 
 * <b> [Asymptotic linear convergence of fully-corrective generalized conditional gradient methods](https://arxiv.org/pdf/2110.06756.pdf) </b> <br>
   <b> Kristian Bredies, Marcello Carioni, Silvio Fanzon, Daniel Walter </b> <br>
