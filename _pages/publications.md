@@ -20,7 +20,7 @@ author_profile: true
   
 * <b> [Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI](https://arxiv.org/pdf/2302.12835.pdf) </b> <br>
   <b> Simone Saitta, Marcello Carioni, Subhadip Mukherjee, Carola-Bibiane Schönlieb, Alberto Redaelli </b><br>
-  Submitted, 2023
+  Accepted for publication in Computer Methods and Programs in Biomedicine, 2024
 * <b> [Extremal points and sparse optimization for generalized Kantorovich-Rubinstein norms](https://arxiv.org/pdf/2209.09167.pdf) </b> <br>
   <b> Marcello Carioni, José Iglesias, Daniel Walter </b><br>
    Accepted for publication in Foundations of Computational Mathematics, 2024
