@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 
+* <b> [CAFLOW: Conditional Autoregressive Flows](https://arxiv.org/pdf/2106.02531.pdf) </b> <br>
+  <b> Georgios Batzolis, Marcello Carioni, Christian Etmann, Soroosh Afyouni, Zoe Kourtzi, Carola Schönlieb </b> <br>
+  Published in Foundations of Data Science, 2024
+
 * <b> [Unsupervised approaches based on optimal transport and convex analysis for inverse problems in imaging](https://arxiv.org/pdf/2311.08972.pdf) </b> <br>
   <b> Marcello Carioni, Subhadip Mukherjee, Hong Ye Tan, Junqi Tang </b><br>
   Submitted, 2023
@@ -58,12 +62,7 @@ author_profile: true
 * <b>  Lossy data compressor for vehicle control systems </b> <br>
    <b> Marcello Carioni, Giorgio Patrini, Max Welling, Patrick Forré, Tim Genewein </b> <br>
   US Patent 11,150,657, 2021
-  
-* <b> [CAFLOW: Conditional Autoregressive Flows](https://arxiv.org/pdf/2106.02531.pdf) </b> <br>
-  <b> Georgios Batzolis, Marcello Carioni, Christian Etmann, Soroosh Afyouni, Zoe Kourtzi, Carola Schönlieb </b> <br>
-  Submitted, 2021
 
-  
 * <b> [Sparsity of solutions for variational inverse problems with finite-dimensional data](https://arxiv.org/pdf/1809.05045.pdf) </b> <br>
   <b> Kristian Bredies, Marcello Carioni </b> <br>
   Published in Calculus of Variations and Partial Differential Equations, 2020
