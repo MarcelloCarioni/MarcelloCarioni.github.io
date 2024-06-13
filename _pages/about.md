@@ -14,6 +14,8 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> News: </b>  
+  * Jun 2024: Our paper "[CAFLOW: Conditional Autoregressive Flows](https://arxiv.org/abs/2106.02531)" has been accepted for publication in Foundations of Data Science
+  * Jan 2024: I have been awarded the NWO Open Competition M1 grant for the project "[Curve Ensemble Gradient Descents f
   * Feb 2024: New PhD Position available! More information [here](open-positions.html)
   * Feb 2024: Our paper "[Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI](https://arxiv.org/abs/2302.12835)" has been accepted for publication in Computer Methods and Programs in Biomedicine
   * Jan 2024: I have been awarded the NWO Open Competition M1 grant for the project "[Curve Ensemble Gradient Descents for Sparse Dynamic Problems](https://www.nwo.nl/en/news/sixteen-innovative-research-projects-launched-through-open-competition-domain-science-m-programme)"
