@@ -26,7 +26,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
   
 
 <b> Upcoming events: </b>
-* I will give a talk at the “MAC-MIGS-Amsterdam/Utrecht Workshop on Scientific Computation, Statistics and PDEs” at CWI
+* 5 Sep 2024: I will give a talk at the “MAC-MIGS-Amsterdam/Utrecht Workshop on Scientific Computation, Statistics and PDEs” at CWI
 
 <b> Contact information: </b>
 
