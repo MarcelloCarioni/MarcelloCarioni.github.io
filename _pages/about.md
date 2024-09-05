@@ -22,9 +22,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
   * Mar 2024: I gave a talk at GAMM 2024 in Magdeburg titled "Sparse representation recovery in convex optimization through a metric non-degenerate source condition"
   * Feb 2024: New PhD Position available! More information [here](open-positions.html)
   * Feb 2024: Our paper "[Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI](https://arxiv.org/abs/2302.12835)" has been accepted for publication in Computer Methods and Programs in Biomedicine
-  * Jan 2024: I have been awarded the NWO Open Competition M1 grant for the project "[Curve Ensemble Gradient Descents for Sparse Dynamic Problems](https://www.nwo.nl/en/news/sixteen-innovative-research-projects-launched-through-open-competition-domain-science-m-programme)"
-  
-
+    
 <b> Upcoming events: </b>
 * 5 Sep 2024: I will give a talk at the “MAC-MIGS-Amsterdam/Utrecht Workshop on Scientific Computation, Statistics and PDEs” at CWI
 
