@@ -14,6 +14,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> News: </b>  
+  * Sep 2024: Floor van Maarschalkerwaart joined us as a PhD student. Welcome! 
   * Jul 2024: I gave a talk at the "CalcVarNL workshop" in Schiermonnikoog titled: "Dynamic problems, superposition principles and sparsity"
   * Jun 2024: I gave a talk at the "FGS Conference on Optimization" in Gijon titled "Exact sparse representation recovery in convex optimization"
   * Jun 2024: New preprint "[Exact Sparse Representation Recovery in Signal Demixing and Group BLASSO](https://arxiv.org/pdf/2406.09922)"
