@@ -14,6 +14,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> News: </b>  
+  * Oct 2024: Christian Amend joined us as a PhD student. Welcome!
   * Sep 2024: Floor van Maarschalkerwaart joined us as a PhD student. Welcome! 
   * Jul 2024: I gave a talk at the "CalcVarNL workshop" in Schiermonnikoog titled: "Dynamic problems, superposition principles and sparsity"
   * Jun 2024: I gave a talk at the "FGS Conference on Optimization" in Gijon titled "Exact sparse representation recovery in convex optimization"
@@ -25,6 +26,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
   * Feb 2024: Our paper "[Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI](https://arxiv.org/abs/2302.12835)" has been accepted for publication in Computer Methods and Programs in Biomedicine
     
 <b> Upcoming events: </b>
+* 24 Oct 2024: I will be at the AIM matchmaking for collaborative research grants in Utrecht 
 * 5 Sep 2024: I will give a talk at the “MAC-MIGS-Amsterdam/Utrecht Workshop on Scientific Computation, Statistics and PDEs” at CWI
 
 <b> Contact information: </b>
