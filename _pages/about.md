@@ -14,6 +14,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> News: </b>
+  * Feb 2025: New preprint "[Nonlocal perimeters and variations: Extremality and decomposability for finite and infinite horizons](https://arxiv.org/abs/2502.05149)"
   * Oct 2024: New preprint "[A Lipschitz spaces view of infinitely wide shallow neural networks](https://arxiv.org/abs/2410.14591)"
   * Oct 2024: Our paper "[A sparse optimization approach to infinite infimal convolution regularization](https://arxiv.org/abs/2304.08628)" has been accepted for publication in Numerische Mathematik
   * Oct 2024: Christian Amend joined us as a PhD student. Welcome!
@@ -26,10 +27,11 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
   * Mar 2024: I gave a talk at GAMM 2024 in Magdeburg titled "Sparse representation recovery in convex optimization through a metric non-degenerate source condition"
  
 <b> Upcoming events: </b>
-* 1 Nov 2024: I will be at the “Fourth annual meeting of the Dutch Inverse Problems Community“ in Delft
-* 24 Oct 2024: I will be at the AIM matchmaking for collaborative research grants in Utrecht 
-* 5 Sep 2024: I will give a talk at the “MAC-MIGS-Amsterdam/Utrecht Workshop on Scientific Computation, Statistics and PDEs“ at CWI
-
+* Apr 7 - Apr 11: I will give a talk at GAMM 2025
+* Jul 7 - Jul 11: I will be organizing the CalcVarNL workshop
+* Jul 14 - Jul 18: I will be organizing a minisymposium at IWOTA 2025
+* Jul 20 - Jul 24: I will give talk at 2025 International Conference on Continuous Optimization (University of Southern California)
+  
 <b> Contact information: </b>
 
 <u>Address</u>: University of Twente, <br> 
