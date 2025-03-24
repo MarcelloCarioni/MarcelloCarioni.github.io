@@ -14,6 +14,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> News: </b>
+  *  Mar 2025: New preprint "[Perturbation-Aware Distributionally Robust Optimization for Inverse Problems](https://arxiv.org/abs/2503.04646)"
   * Feb 2025: New preprint "[Nonlocal perimeters and variations: Extremality and decomposability for finite and infinite horizons](https://arxiv.org/abs/2502.05149)"
   * Oct 2024: New preprint "[A Lipschitz spaces view of infinitely wide shallow neural networks](https://arxiv.org/abs/2410.14591)"
   * Oct 2024: Our paper "[A sparse optimization approach to infinite infimal convolution regularization](https://arxiv.org/abs/2304.08628)" has been accepted for publication in Numerische Mathematik
