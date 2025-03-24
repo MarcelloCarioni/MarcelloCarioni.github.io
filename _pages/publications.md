@@ -7,7 +7,7 @@ author_profile: true
 
 * <b> [Perturbation-Aware Distributionally Robust Optimization for Inverse Problems](https://arxiv.org/abs/2502.05149) </b> <br>
   <b> Floor van Maarschalkerwaart, Subhadip Mukherjee, Malena Sabaté Landman, Christoph Brune, Marcello Carioni </b> <br>
-  Submitted, 2025
+  Accepted at SSVM 2025
 
 * <b> [Nonlocal perimeters and variations: Extremality and decomposability for finite and infinite horizons](https://arxiv.org/abs/2502.05149) </b> <br>
   <b> Marcello Carioni, Leonardo Del Grande, José A. Iglesias, Hidde Schönberger </b> <br>
