@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+* <b> [Nonlocal perimeters and variations: Extremality and decomposability for finite and infinite horizons](https://arxiv.org/abs/2502.05149) </b> <br>
+  <b> Marcello Carioni, Leonardo Del Grande, José A. Iglesias, Hidde Schönberger </b> <br>
+  Submitted, 2025
+  
+* <b> [A Lipschitz spaces view of infinitely wide shallow neural networks](https://arxiv.org/abs/2410.14591) </b> <br>
+  <b> Francesca Bartolucci, Marcello Carioni, José A. Iglesias, Yury Korolev, Emanuele Naldi, Stefano Vigogna </b> <br>
+  Submitted, 2024
 
 * <b> [CAFLOW: Conditional Autoregressive Flows](https://arxiv.org/pdf/2106.02531.pdf) </b> <br>
   <b> Georgios Batzolis, Marcello Carioni, Christian Etmann, Soroosh Afyouni, Zoe Kourtzi, Carola Schönlieb </b> <br>
@@ -20,7 +27,7 @@ author_profile: true
   
 * <b> [A sparse optimization approach to infinite infimal convolution regularization](https://arxiv.org/pdf/2304.08628.pdf) </b> <br>
   <b> Kristian Bredies, Marcello Carioni, Martin Holler, Yury Korolev, Carola-Bibiane Schönlieb </b><br>
-  Submitted, 2023
+  Published in Foundations of Numerische Mathematik, 2024
   
 * <b> [Implicit neural representations for unsupervised super-resolution and denoising of 4D flow MRI](https://arxiv.org/pdf/2302.12835.pdf) </b> <br>
   <b> Simone Saitta, Marcello Carioni, Subhadip Mukherjee, Carola-Bibiane Schönlieb, Alberto Redaelli </b><br>
