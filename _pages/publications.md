@@ -19,7 +19,7 @@ author_profile: true
 
 * <b> [Unsupervised approaches based on optimal transport and convex analysis for inverse problems in imaging](https://arxiv.org/pdf/2311.08972.pdf) </b> <br>
   <b> Marcello Carioni, Subhadip Mukherjee, Hong Ye Tan, Junqi Tang </b><br>
-  Submitted, 2023
+  Published in Data-driven Models in Inverse Problems, 2025
   
 * <b> [A general theory for exact sparse representation recovery in convex optimization](https://arxiv.org/pdf/2311.08072.pdf) </b> <br>
   <b> Marcello Carioni, Leonardo Del Grande </b><br>
