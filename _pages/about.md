@@ -13,6 +13,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> News: </b>
+  * May 2025: New preprint "[Sparsity for dynamic inverse problems on Wasserstein curves with bounded variation](https://arxiv.org/abs/2505.07314)"
   * Apr 2025: I gave a talk at the GAMM 2025 titled: "Towards a superresolution theory for infinite-wide shallow neural networks"
   * Apr 2025: New preprint "[Dynamic Optimal Transport with Optimal Preferential Paths](https://arxiv.org/abs/2504.03285)"
   * Mar 2025: New preprint "[Perturbation-Aware Distributionally Robust Optimization for Inverse Problems](https://arxiv.org/abs/2503.04646)"
@@ -27,6 +28,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 * Jul 7 - Jul 11: I will be organizing the CalcVarNL Workshop 2025 in Swalmen
 * Jul 14 - Jul 18: I will be organizing the minisymposium "Operator Learning and Functional Representation" at IWOTA 2025 (University of Twente)
 * Jul 20 - Jul 24: I will give talk at 2025 International Conference on Continuous Optimization (University of Southern California)
+* Oct 2: I will give an online talk at "Math Machine Learning seminar MPI MIS + UCLA"
   
 <b> Contact information: </b>
 
