@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+* <b> [Sparsity for dynamic inverse problems on Wasserstein curves with bounded variation](https://arxiv.org/abs/2505.07314) </b> <br>
+  <b> Marcello Carioni, Julius Lohmann </b> <br>
+  Submitted, 2025
+
+* <b> [Dynamic Optimal Transport with Optimal Preferential Paths](https://arxiv.org/pdf/2504.03285) </b> <br>
+  <b> Marcello Carioni, Juliane Krautz, Jan-F Pietschmann </b> <br>
+  Submitted, 2025
+
 * <b> [Perturbation-Aware Distributionally Robust Optimization for Inverse Problems](https://arxiv.org/abs/2502.05149) </b> <br>
   <b> Floor van Maarschalkerwaart, Subhadip Mukherjee, Malena Sabaté Landman, Christoph Brune, Marcello Carioni </b> <br>
   Accepted at SSVM 2025
