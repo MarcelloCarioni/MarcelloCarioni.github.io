@@ -13,22 +13,20 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> News: </b>
+  * Sep 2025: New preprint "[An invertible generative model for forward and inverse problems](https://arxiv.org/pdf/2509.03910)"
+  * Jul 2025: I gave a talk at ICCOPT 2025 (University of Southern California) titled: "Exact Sparse Representation Recovery for Convex Optimization Problems"
+  * Jul 2025: Many interesting talks at our minisymposium "Operator Learning and Functional Representation at IWOTA 2025". Thanks to all participants! 
+  * Jul 2025: Thanks to all participants of our CalcVarNL Workshop 2025! It was a pleasure to organize it
+  * Jun 2025: I gave a talk at NDNS+ workshop at University of Twente titled: "Dynamic variational problems with Optimal Transport regularization"
   * May 2025: New preprint "[Sparsity for dynamic inverse problems on Wasserstein curves with bounded variation](https://arxiv.org/abs/2505.07314)"
   * Apr 2025: I gave a talk at the GAMM 2025 titled: "Towards a superresolution theory for infinite-wide shallow neural networks"
   * Apr 2025: New preprint "[Dynamic Optimal Transport with Optimal Preferential Paths](https://arxiv.org/abs/2504.03285)"
   * Mar 2025: New preprint "[Perturbation-Aware Distributionally Robust Optimization for Inverse Problems](https://arxiv.org/abs/2503.04646)"
-  * Feb 2025: New preprint "[Nonlocal perimeters and variations: Extremality and decomposability for finite and infinite horizons](https://arxiv.org/abs/2502.05149)"
-  * Oct 2024: New preprint "[A Lipschitz spaces view of infinitely wide shallow neural networks](https://arxiv.org/abs/2410.14591)"
-  * Oct 2024: Our paper "[A sparse optimization approach to infinite infimal convolution regularization](https://arxiv.org/abs/2304.08628)" has been accepted for publication in Numerische Mathematik
-  * Oct 2024: Christian Amend joined us as a PhD student. Welcome!
-  * Sep 2024: Floor van Maarschalkerwaart joined us as a PhD student. Welcome! 
 
 <b> Upcoming events: </b>
-* Jun 23 - Jun 24: I will give a talk at NDNS+ workshop at University of Twente
-* Jul 7 - Jul 11: I will be organizing the CalcVarNL Workshop 2025 in Swalmen
-* Jul 14 - Jul 18: I will be organizing the minisymposium "Operator Learning and Functional Representation" at IWOTA 2025 (University of Twente)
-* Jul 20 - Jul 24: I will give talk at 2025 International Conference on Continuous Optimization (University of Southern California)
+* Sep 22 - Sep 26: I will give talk at "Conference on Mathematics of Machine Learning 2025" in Hamburg
 * Oct 2: I will give an online talk at "Math Machine Learning seminar MPI MIS + UCLA"
+* Apr 2026: I will give a talk at NMC 2026
   
 <b> Contact information: </b>
 
