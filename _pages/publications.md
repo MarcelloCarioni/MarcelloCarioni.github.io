@@ -12,7 +12,7 @@ author_profile: true
 
 * <b> [Dynamic Optimal Transport with optimal star shaped graphs](https://arxiv.org/pdf/2506.15007) </b> <br>
   <b>  Marcello Carioni, Juliane Krautz, Jan-F Pietschmann </b> <br>
-  Preprint, 2025
+  Submitted, 2025
 
 * <b> [Sparsity for dynamic inverse problems on Wasserstein curves with bounded variation](https://arxiv.org/abs/2505.07314) </b> <br>
   <b> Marcello Carioni, Julius Lohmann </b> <br>
