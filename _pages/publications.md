@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 
+* <b> [An invertible generative model for forward and inverse problems](https://arxiv.org/pdf/2509.03910) </b> <br>
+  <b> Tristan van Leeuwen, Christoph Brune, Marcello Carioni </b> <br>
+  Preprint, 2025
+
+* <b> [Dynamic Optimal Transport with optimal star shaped graphs](https://arxiv.org/pdf/2506.15007) </b> <br>
+  <b>  Marcello Carioni, Juliane Krautz, Jan-F Pietschmann </b> <br>
+  Preprint, 2025
+
 * <b> [Sparsity for dynamic inverse problems on Wasserstein curves with bounded variation](https://arxiv.org/abs/2505.07314) </b> <br>
   <b> Marcello Carioni, Julius Lohmann </b> <br>
   Submitted, 2025
