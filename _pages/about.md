@@ -27,6 +27,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 * Sep 22 - Sep 26: I will give talk at "Conference on Mathematics of Machine Learning 2025" in Hamburg
 * Oct 2: I will give an online talk at "Math Machine Learning seminar MPI MIS + UCLA"
 * Apr 2026: I will give a talk at NMC 2026
+* Jun 2026: I will give a talk at SIAM Optimization Conference 2026
   
 <b> Contact information: </b>
 
