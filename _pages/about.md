@@ -13,7 +13,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 
 <b> News: </b>
-  * Nov 2025: I have been awarded a Vidi grant from the NWO (Dutch Research Council). [link](https://www.utwente.nl/en/news/2025/10/645168/six-vidi-grants-for-ut-researchers)
+  * Nov 2025: <b>I have been awarded a Vidi grant from the NWO (Dutch Research Council). [link](https://www.utwente.nl/en/news/2025/10/645168/six-vidi-grants-for-ut-researchers) </b>
   * Oct 2025: I gave an online talk at "Math Machine Learning seminar MPI MIS + UCLA" titled: "Exact sparse reconstruction and stability for infinite wide shallow neural networks"
   * Sep 2025: I gave a talk at "Conference on Mathematics of Machine Learning 2025"
   * Sep 2025: New preprint "[An invertible generative model for forward and inverse problems](https://arxiv.org/pdf/2509.03910)"
