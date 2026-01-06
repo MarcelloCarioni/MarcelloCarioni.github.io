@@ -16,7 +16,7 @@ author_profile: true
 
 * <b> [Sparsity for dynamic inverse problems on Wasserstein curves with bounded variation](https://arxiv.org/abs/2505.07314) </b> <br>
   <b> Marcello Carioni, Julius Lohmann </b> <br>
-  Submitted, 2025
+  Accepted in Inverse Problems, 2025
 
 * <b> [Dynamic Optimal Transport with Optimal Preferential Paths](https://arxiv.org/pdf/2504.03285) </b> <br>
   <b> Marcello Carioni, Juliane Krautz, Jan-F Pietschmann </b> <br>
@@ -28,11 +28,11 @@ author_profile: true
 
 * <b> [Nonlocal perimeters and variations: Extremality and decomposability for finite and infinite horizons](https://arxiv.org/abs/2502.05149) </b> <br>
   <b> Marcello Carioni, Leonardo Del Grande, José A. Iglesias, Hidde Schönberger </b> <br>
-  Submitted, 2025
+  Accepted in Calculus of Variations and PDE, 2025
   
 * <b> [A Lipschitz spaces view of infinitely wide shallow neural networks](https://arxiv.org/abs/2410.14591) </b> <br>
   <b> Francesca Bartolucci, Marcello Carioni, José A. Iglesias, Yury Korolev, Emanuele Naldi, Stefano Vigogna </b> <br>
-  Submitted, 2024
+  Accepted in SIAM Mathematical Analysis, 2024
 
 * <b> [CAFLOW: Conditional Autoregressive Flows](https://arxiv.org/pdf/2106.02531.pdf) </b> <br>
   <b> Georgios Batzolis, Marcello Carioni, Christian Etmann, Soroosh Afyouni, Zoe Kourtzi, Carola Schönlieb </b> <br>
