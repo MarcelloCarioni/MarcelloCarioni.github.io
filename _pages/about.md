@@ -21,15 +21,11 @@ My research is supported by
   * Our paper "[Sparsity for dynamic inverse problems on Wasserstein curves with bounded variation](https://arxiv.org/abs/2505.07314)" has been accepted for publication in Inverse Problems
   * Nov 2025: <b>I have been awarded a Vidi grant from the NWO (Dutch Research Council). [link](https://www.utwente.nl/en/news/2025/10/645168/six-vidi-grants-for-ut-researchers) </b>
   * Oct 2025: I gave an online talk at "Math Machine Learning seminar MPI MIS + UCLA" titled: "Exact sparse reconstruction and stability for infinite wide shallow neural networks"
-  * Sep 2025: I gave a talk at "Conference on Mathematics of Machine Learning 2025"
-  * Sep 2025: New preprint "[An invertible generative model for forward and inverse problems](https://arxiv.org/pdf/2509.03910)"
-  * Jul 2025: I gave a talk at ICCOPT 2025 (University of Southern California) titled: "Exact Sparse Representation Recovery for Convex Optimization Problems"
-  * Jul 2025: Many interesting talks at our minisymposium "Operator Learning and Functional Representation at IWOTA 2025". Thanks to all participants! 
-  * Jul 2025: Thanks to all participants of our CalcVarNL Workshop 2025! It was a pleasure to organize it
     
 <b> Upcoming events: </b>
 * Nov 2025-Jan 2026: I will be a guest in Prof. Gabriele Steidl group at TU Berlin. Reach out if you want to discuss research! 
 * Feb 2026: I will give a talk in the "Workshop on Gradient Structures" at University of Augsburg
+* Mar 2026: I will give a talk at GAMM 2026 in Stuttgart
 * Apr 2026: I will give a talk at NMC 2026
 * Jun 2026: I will give a talk at SIAM Optimization Conference 2026
   
