@@ -2,6 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "SPARGO"
+    url: /SPARGO/
+
+ - title: "Curve Ensemble"
+    url: /Curve_ensemble/
 
   - title: "CV"
     url: /cv/
