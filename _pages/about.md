@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the University of Twente in the Mathematics of Imaging & AI group (MIA) and in the [SACS group](https://www.utwente.nl/en/eemcs/sacs/).
+I am an Assistant Professor at the University of Twente in the Mathematics of Imaging & AI group (MIA) and in the [MAGNUS group](https://www.utwente.nl/en/eemcs/sacs/).
 
+My research is supported by
 
+* <b> NWO VIDI grant (2025– ) </b>: "SPARGO: Exploring and Exploiting the Geometric Landscape of Infinite-Dimensional Sparse Optimization"
+* <b> NWO M1 Open Competition grant (2024- ) </b>: "Curve Ensemble Gradient Descent for Dynamic Problems"
 
 <b> News: </b>
   * Our paper "[A Lipschitz spaces view of infinitely wide shallow neural networks](https://arxiv.org/abs/2410.14591)" has been accepted for publication in SIAM Mathematical Analysis
