@@ -16,8 +16,8 @@ My research is supported by
 * <b> NWO M1 Open Competition grant (2024- ) </b>: "Curve Ensemble Gradient Descent for Dynamic Problems"
 
 <b> News: </b>
-  * Nov 2025: <b>I have been awarded a Vidi grant from the NWO (Dutch Research Council). [link](https://www.utwente.nl/en/news/2025/10/645168/six-vidi-grants-for-ut-researchers) </b>
-  * Oct 2025: I gave an online talk at "Math Machine Learning seminar MPI MIS + UCLA" titled: "Exact sparse reconstruction and stability for infinite wide shallow neural networks"
+* Nov 2025: <b>I have been awarded a Vidi grant from the NWO (Dutch Research Council). [link](https://www.utwente.nl/en/news/2025/10/645168/six-vidi-grants-for-ut-researchers) </b>
+* Oct 2025: I gave an online talk at "Math Machine Learning seminar MPI MIS + UCLA" titled: "Exact sparse reconstruction and stability for infinite wide shallow neural networks"
     
 <b> Upcoming events: </b>
 * Nov 2025-Jan 2026: I will be a guest in Prof. Gabriele Steidl group at TU Berlin. Reach out if you want to discuss research! 
