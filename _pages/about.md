@@ -17,7 +17,6 @@ My research is supported by
 
 <b> News: </b>
   * Dec 2025: Our paper "[A Lipschitz spaces view of infinitely wide shallow neural networks](https://arxiv.org/abs/2410.14591)" has been accepted for publication in SIAM Mathematical Analysis
-  * Nov 2025: Our paper "[Nonlocal perimeters and variations: Extremality and decomposability for finite and infinite horizons](https://arxiv.org/abs/2502.05149)" has been accepted for publication in Calculus of Variations and PDE
   * Oct 2025: Our paper "[Sparsity for dynamic inverse problems on Wasserstein curves with bounded variation](https://arxiv.org/abs/2505.07314)" has been accepted for publication in Inverse Problems
   * Nov 2025: <b>I have been awarded a Vidi grant from the NWO (Dutch Research Council). [link](https://www.utwente.nl/en/news/2025/10/645168/six-vidi-grants-for-ut-researchers) </b>
   * Oct 2025: I gave an online talk at "Math Machine Learning seminar MPI MIS + UCLA" titled: "Exact sparse reconstruction and stability for infinite wide shallow neural networks"
