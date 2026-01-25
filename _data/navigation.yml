@@ -6,6 +6,9 @@ main:
   - title: "SPARGO"
     url: /spargo/
 
+  - title: "Curve Ensemble"
+    url: /curve-ensemble/
+
   - title: "CV"
     url: /cv/
     
