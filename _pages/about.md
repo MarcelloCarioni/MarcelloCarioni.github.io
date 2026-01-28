@@ -12,7 +12,7 @@ I am an Assistant Professor at the University of Twente in the Mathematics of Im
 
 My research is supported by
 
-* <b> NWO VIDI grant (2025– ) </b>: "SPARGO: Exploring and Exploiting the Geometric Landscape of Infinite-Dimensional Sparse Optimization". <a href="spargo.html">More information here</a>
+* <b> NWO VIDI grant (2026– ) </b>: "SPARGO: Exploring and Exploiting the Geometric Landscape of Infinite-Dimensional Sparse Optimization". <a href="spargo.html">More information here</a>
 * <b> NWO M1 Open Competition grant (2024- ) </b>: "Curve Ensemble Gradient Descent for Dynamic Problems"
 
 <b> News: </b>
