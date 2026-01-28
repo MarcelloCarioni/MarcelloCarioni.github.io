@@ -16,6 +16,7 @@ My research is supported by
 * <b> NWO M1 Open Competition grant (2024- ) </b>: "Curve Ensemble Gradient Descent for Dynamic Problems"
 
 <b> News: </b>
+* Feb 2026: <b> PhD position available! </b> <a href="open-positions.html"> More information here</a>
 * Dec 2025: Our paper ["A Lipschitz spaces view of infinitely wide shallow neural networks"](https://arxiv.org/pdf/2410.14591?) has been accepted for publication in SIAM Mathematical Analysis
 * Dec 2025: Our paper ["Nonlocal perimeters and variations: Extremality and decomposability for finite and infinite horizons"](https://arxiv.org/pdf/2502.05149) has been accepted for publication in Calculus of Variations and Partial Differential Equations
 * Oct 2025: Our paper ["Sparsity for dynamic inverse problems on Wasserstein curves with bounded variation"](https://arxiv.org/pdf/2505.07314) has been accepted for publication in Inverse Problems
