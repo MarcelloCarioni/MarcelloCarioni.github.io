@@ -7,7 +7,7 @@ author_profile: true
 
 * <b> [Atomic gradient flows: gradient flows on sparse representations](https://arxiv.org/pdf/2603.25675) </b> <br>
   <b> Christian Amend, Marcello Carioni, Kostantinos Zemas </b> <br>
-  Preprint, 2025
+  Preprint, 2026
 
 * <b> [A dual certificate approach to sparsity in infinite-width shallow neural networks](https://arxiv.org/pdf/2603.17785) </b> <br>
   <b> Leonardo Del Grande, Christoph Brune, Marcello Carioni </b> <br>
