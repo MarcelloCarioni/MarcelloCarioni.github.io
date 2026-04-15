@@ -13,7 +13,7 @@ main:
     url: /spargo/
 
   - title: "Curve Ensembles"
-    url: /curve/  
+    url: /curve-ensemble/  
 
   - title: "Open positions"
     url: /open-positions/   
