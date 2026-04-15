@@ -16,19 +16,19 @@ My research is supported by
 * <b> NWO M1 Open Competition grant (2024- ) </b>: "Curve Ensemble Gradient Descent for Dynamic Problems".
 
 <b> News: </b>
-* Feb 2026: <b> PhD position available! </b> <a href="open-positions.html"> More information here</a>
+* Apr 2026: I gave a talk at the Benelux Mathematical Congress (Antwerp) titled "Sparsity for dynamic variational problems with Optimal
+Transport regularization" 
+* Mar 2026: I gave a talk at GAMM 2026 (Stuttgart) titled "Atomic Gradient Flows: Gradient Flows on Sparse Representations"
+* Mar 2026: New preprint: ["Atomic Gradient Flows: Gradient Flows on Sparse Representations"](https://arxiv.org/pdf/2603.25675) with Christian Amend and Kostantinos Zemas
+* Feb 2026: New preprint: ["A Dual Certificate Approach to Sparsity in Infinite-Width Shallow Neural Networks"](https://arxiv.org/pdf/2603.17785) with Leonardo Del Grande and Christoph Brune
 * Dec 2025: Our paper ["A Lipschitz spaces view of infinitely wide shallow neural networks"](https://arxiv.org/pdf/2410.14591?) has been accepted for publication in SIAM Mathematical Analysis
 * Dec 2025: Our paper ["Nonlocal perimeters and variations: Extremality and decomposability for finite and infinite horizons"](https://arxiv.org/pdf/2502.05149) has been accepted for publication in Calculus of Variations and Partial Differential Equations
-* Oct 2025: Our paper ["Sparsity for dynamic inverse problems on Wasserstein curves with bounded variation"](https://arxiv.org/pdf/2505.07314) has been accepted for publication in Inverse Problems
-* Nov 2025: <b>I have been awarded a Vidi grant from the NWO (Dutch Research Council). [link](https://www.utwente.nl/en/news/2025/10/645168/six-vidi-grants-for-ut-researchers) </b>
-* Oct 2025: I gave an online talk at "Math Machine Learning seminar MPI MIS + UCLA" titled: "Exact sparse reconstruction and stability for infinite wide shallow neural networks"
+
     
 <b> Upcoming events: </b>
-* Nov 2025-Jan 2026: I will be a guest in Prof. Gabriele Steidl group at TU Berlin. Reach out if you want to discuss research! 
-* Feb 2026: I will give a talk in the "Workshop on Gradient Structures" at University of Augsburg
-* Mar 2026: I will give a talk at GAMM 2026 in Stuttgart
-* Apr 2026: I will give a talk at NMC 2026
-* Jun 2026: I will give a talk at SIAM Optimization Conference 2026
+* Jun 2026: I will give a talk at SIAM Optimization Conference 2026 in Edinburgh
+* Jul 2026: I will participate to the CalcVarNL workshop in the Netherlands in Roermond
+* Nov 2026: I will give a talk at Optimization in the Länd Workshop 2026 in Mannheim
   
 <b> Contact information: </b>
 
