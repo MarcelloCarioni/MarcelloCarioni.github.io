@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the University of Twente in the Mathematics of Imaging & AI group (MIA) and in the [MAGNUS group](https://www.utwente.nl/en/eemcs/sacs/).
+I am a Mathematician interested in Optimization, Inverse Problems, Calculus of Variations and Mathematical Foundations of AI.  
+I am part of the [Mathematics of Imaging & AI group (MIA)](https://www.utwente.nl/en/eemcs/mia/) at the University of Twente.
 
 My research is supported by
 
