@@ -12,7 +12,7 @@ I am a Mathematician working at the interface of Optimization, Inverse Problems,
 
 My research is supported by
 
-* <b> NWO VIDI grant (2026– ) </b>: "SPARGO: Exploring and Exploiting the Geometric Landscape of Infinite-Dimensional Sparse Optimization". <a href="{{ site.baseurl }}/spargo/">More information here</a>.
+* <b> NWO VIDI grant (2026- ) </b>: "SPARGO: Exploring and Exploiting the Geometric Landscape of Infinite-Dimensional Sparse Optimization". <a href="{{ site.baseurl }}/spargo/">More information here</a>.
 * <b> NWO M1 Open Competition grant (2024- ) </b>: "Curve Ensemble Gradient Descent for Dynamic Problems".  <a href="{{ site.baseurl }}/curve-ensemble/">More information here</a>.
 
 <b> News: </b>
