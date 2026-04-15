@@ -2,19 +2,21 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "SPARGO"
-    url: /spargo/
 
   - title: "CV"
     url: /cv/
     
   - title: "Teaching"
     url: /teaching/    
-    
+
+  - title: "SPARGO"
+    url: /spargo/
+
+  - title: "Curve Ensembles"
+    url: /curve/  
+
   - title: "Open positions"
     url: /open-positions/   
-    
  
     
  
