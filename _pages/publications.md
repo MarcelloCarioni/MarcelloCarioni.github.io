@@ -8,32 +8,14 @@ author_profile: true
 *  <b> Christian Amend, Marcello Carioni, Kostantinos Zemas. [Atomic gradient flows: gradient flows on sparse representations](https://arxiv.org/pdf/2603.25675). </b> Sumbitted, 2026
 * <b> Leonardo Del Grande, Christoph Brune, Marcello Carioni. [A dual certificate approach to sparsity in infinite-width shallow neural networks](https://arxiv.org/pdf/2603.17785). </b> Sumbitted, 2026
 * <b> Tristan van Leeuwen, Christoph Brune, Marcello Carioni.  [An invertible generative model for forward and inverse problems](https://arxiv.org/pdf/2509.03910). </b>  Preprint, 2025
-
 * <b> Marcello Carioni, Juliane Krautz, Jan-F Pietschmann. [Dynamic Optimal Transport with optimal star shaped graphs](https://arxiv.org/pdf/2506.15007). </b> Accepted in PAMM, 2026
-
 * <b> Marcello Carioni, Julius Lohmann. [Sparsity for dynamic inverse problems on Wasserstein curves with bounded variation](https://arxiv.org/abs/2505.07314). </b> Accepted in Inverse Problems, 2025
-
 * <b> Marcello Carioni, Juliane Krautz, Jan-F Pietschmann. [Dynamic Optimal Transport with Optimal Preferential Paths](https://arxiv.org/pdf/2504.03285). </b> Submitted, 2025
-
-* <b> [Perturbation-Aware Distributionally Robust Optimization for Inverse Problems](https://arxiv.org/abs/2502.05149) </b> <br>
-  <b> Floor van Maarschalkerwaart, Subhadip Mukherjee, Malena Sabaté Landman, Christoph Brune, Marcello Carioni </b> <br>
-  Accepted at SSVM 2025
-
-* <b> [Nonlocal perimeters and variations: Extremality and decomposability for finite and infinite horizons](https://arxiv.org/abs/2502.05149) </b> <br>
-  <b> Marcello Carioni, Leonardo Del Grande, José A. Iglesias, Hidde Schönberger </b> <br>
-  Accepted in Calculus of Variations and PDE, 2025
-  
-* <b> [A Lipschitz spaces view of infinitely wide shallow neural networks](https://arxiv.org/abs/2410.14591) </b> <br>
-  <b> Francesca Bartolucci, Marcello Carioni, José A. Iglesias, Yury Korolev, Emanuele Naldi, Stefano Vigogna </b> <br>
-  Accepted in SIAM Mathematical Analysis, 2024
-
-* <b> [CAFLOW: Conditional Autoregressive Flows](https://arxiv.org/pdf/2106.02531.pdf) </b> <br>
-  <b> Georgios Batzolis, Marcello Carioni, Christian Etmann, Soroosh Afyouni, Zoe Kourtzi, Carola Schönlieb </b> <br>
-  Published in Foundations of Data Science, 2024
-
-* <b> [Unsupervised approaches based on optimal transport and convex analysis for inverse problems in imaging](https://arxiv.org/pdf/2311.08972.pdf) </b> <br>
-  <b> Marcello Carioni, Subhadip Mukherjee, Hong Ye Tan, Junqi Tang </b><br>
-  Published in Data-driven Models in Inverse Problems, 2025
+* <b> Floor van Maarschalkerwaart, Subhadip Mukherjee, Malena Sabaté Landman, Christoph Brune, Marcello Carioni. [Perturbation-Aware Distributionally Robust Optimization for Inverse Problems](https://arxiv.org/abs/2502.05149). Accepted at SSVM 2025
+* <b> Marcello Carioni, Leonardo Del Grande, José A. Iglesias, Hidde Schönberger. [Nonlocal perimeters and variations: Extremality and decomposability for finite and infinite horizons](https://arxiv.org/abs/2502.05149). Accepted in Calculus of Variations and PDE, 2025
+* <b> Francesca Bartolucci, Marcello Carioni, José A. Iglesias, Yury Korolev, Emanuele Naldi, Stefano Vigogna. [A Lipschitz spaces view of infinitely wide shallow neural networks](https://arxiv.org/abs/2410.14591).  </b> Accepted in SIAM Mathematical Analysis, 2024
+* <b> Georgios Batzolis, Marcello Carioni, Christian Etmann, Soroosh Afyouni, Zoe Kourtzi, Carola Schönlieb. [CAFLOW: Conditional Autoregressive Flows](https://arxiv.org/pdf/2106.02531.pdf).  </b> Published in Foundations of Data Science, 2024
+* <b> Marcello Carioni, Subhadip Mukherjee, Hong Ye Tan, Junqi Tang. [Unsupervised approaches based on optimal transport and convex analysis for inverse problems in imaging](https://arxiv.org/pdf/2311.08972.pdf).  </b> Published in Data-driven Models in Inverse Problems, 2025
   
 * <b> [A general theory for exact sparse representation recovery in convex optimization](https://arxiv.org/pdf/2311.08072.pdf) </b> <br>
   <b> Marcello Carioni, Leonardo Del Grande </b><br>
