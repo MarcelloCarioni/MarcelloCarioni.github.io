@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-*  <b> Christian Amend, Marcello Carioni, Kostantinos Zemas. [Atomic gradient flows: gradient flows on sparse representations](https://arxiv.org/pdf/2603.25675). </b> Sumbitted, 2026
+[1]  <b> Christian Amend, Marcello Carioni, Kostantinos Zemas. [Atomic gradient flows: gradient flows on sparse representations](https://arxiv.org/pdf/2603.25675). </b> Sumbitted, 2026
 * <b> Leonardo Del Grande, Christoph Brune, Marcello Carioni. [A dual certificate approach to sparsity in infinite-width shallow neural networks](https://arxiv.org/pdf/2603.17785). </b> Sumbitted, 2026
 * <b> Tristan van Leeuwen, Christoph Brune, Marcello Carioni.  [An invertible generative model for forward and inverse problems](https://arxiv.org/pdf/2509.03910). </b>  Preprint, 2025
 * <b> Marcello Carioni, Juliane Krautz, Jan-F Pietschmann. [Dynamic Optimal Transport with optimal star shaped graphs](https://arxiv.org/pdf/2506.15007). </b> Accepted in PAMM, 2026
