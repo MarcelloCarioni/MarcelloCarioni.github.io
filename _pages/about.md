@@ -33,7 +33,7 @@ Transport regularization"
 
 <b> Short CV: </b>
 
-* January 2022 - : Assistant Professor at University of Twente 
+* January 2022 - present: Assistant Professor at University of Twente 
 * April 2020 - December 2022: Newton International Fellow at University of Cambridge
 * September 2017 - March 2020: Postoctoral researcher at KFU Graz
 * March 2017 - August 2017: Postoctoral researcher at University of Würzburg
