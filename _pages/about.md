@@ -29,6 +29,10 @@ Transport regularization"
 * Jun 2026: I will give a talk at SIAM Optimization Conference 2026 in Edinburgh
 * Jul 2026: I will participate to the CalcVarNL workshop in the Netherlands in Roermond
 * Nov 2026: I will give a talk at Optimization in the Länd Workshop 2026 in Mannheim
+
+
+<b> Short CV: </b>
+
   
 <b> Contact information: </b>
 
